@@ -1,0 +1,41 @@
+/* main content */
+.main {
+  margin-top: 200px;
+}
+
+/* logo */
+.google-img {
+  width: 300px;
+  display: block;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* input */
+.input-field {
+  width: 500px;
+  line-height: 24px;
+  padding: 10px 30px;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* individual buttons */
+.btn {
+  margin: 30px 4px 0;
+  padding: 8px 16px;
+  font-size: 14px;
+  border: none;
+  background: #dfe1e5;
+  border-radius: 4px;
+}
+
+/* button wrapper */
+.btn-wrapper {
+  display: flex;
+  justify-content: center;
+}
