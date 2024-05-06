@@ -1,7 +1,7 @@
 # Google Clone
 
 ## Description
-Welcome to our Google Clone project! This web application replicates the familiar Google search interface.his is a static page designed for practice purposes only.
+Welcome to our Google Clone project! This web application replicates the familiar Google search interface. This is a static page designed for practice purposes only.
 
 ## Features
 1. **User-friendly Interface**: The interface closely resembles the layout and design of the official Google search page, ensuring ease of use for all users.
